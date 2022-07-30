@@ -1,0 +1,18 @@
+bookdown::gitbook:
+  toc_depth: 4
+  css: style.css
+  includes:
+    before_body: hero-image.html
+  config:
+    toc:
+      collapse: section
+      before:  |
+        <li class="toc-logo"><a href="./"><img src="images/logo.png"></a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    sharing:
+      github: yes
+      facebook: yes
+      twitter: yes
+

@@ -1,0 +1,28 @@
+# (PART\*) R crash course{-}
+
+
+# Setting R
+
+R is a language and environment for statistical computing and graphics, which can be extended through packages. R was built as an open-source project, meaning every package and software is free! You can visit their [site](https://www.r-project.org/about.html) if you are interested in more technical aspects. To start using R, you need to install two complementary things:
+
+1. **R:** is the raw software that will run the code
+
+2. **R Studio:** is an Integrated  Development Software (IDE), a computer application that provides comprehensive services to make it easier for the developer or programmer to develop software. 
+
+Both installations are designed to be simple and accessible:
+
+1. **R**, [The Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/), can be downloaded for any platform. After clicking the link, choose the appropriate (Linux, (Mac) OS X, or Windows) installation file for R. Download and install R on your computer.
+
+2. **R studio** provides the previous step and its installation in the following [link](https://www.rstudio.com/products/rstudio/download/#download).
+
+A nice overview of R Studio interface and windows can be found at [RStudio Layout](https://rbasics.netlify.app/3-rstudiobasics.html#working-in-rstudio-server). The reference works through an R Studio server; since our recommendation and approach is to download R studio, you don't have to worry about logging in.
+
+
+# R Basics
+
+## Installing Packages
+
+
+## Read and Open Data
+
+
