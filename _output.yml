@@ -9,8 +9,8 @@ bookdown::gitbook:
       before:  |
         <li class="toc-logo"><a href="./"><img src="images/logo.png"></a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+        <li><a href="https://github.com/crispydoggo/Research_Seminar" target="blank">Source code</a></li>
+    edit: https://github.com/crispydoggo/Research_Seminar/branches
     sharing:
       github: yes
       facebook: yes
