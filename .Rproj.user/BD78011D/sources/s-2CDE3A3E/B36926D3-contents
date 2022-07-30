@@ -1,4 +1,19 @@
-Welcome! 
+--- 
+title: "Online Resources"
+author: "Jaakko Meriläinen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+cover-image: images/logo.png
+description: |
+  These are the online lecture notes for empirical methods using R from Jaakko's Research Seminar at    ITAM.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Welcome {-}
 
 These are the online lecture notes for empirical methods using `R` from Jaakko's Research Seminar at  ITAM.
 
@@ -20,4 +35,6 @@ Also,  in these notes, we cover the most appropriate empirical methods to make c
 - Producing .tex tables
 - Running RDD
 - Using different kinds of standard errors
+
+
 
