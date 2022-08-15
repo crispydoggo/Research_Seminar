@@ -20,6 +20,17 @@ A nice overview of R Studio interface and windows can be found at [RStudio Layou
 
 # R Basics
 
+Lucky for you, ITAM has an available [GitHub Student Developer Pack](https://education.github.com/pack) for every active student! GitHub Education gives students hands-on experience with free access to various developer tools from GitHub partners. 
+
+We recommend activating your free trial for [DataCamp](https://www.datacamp.com/); it provides R, Python, SQL and more programming courses. I will give you **one BIG cookie** for every **statement of accomplishment** you achieve during this semester of DataCamp.
+
+If you don't want to cover the basics in detail, try these small tutorials to familiarize yourself with the R syntax and RStudio:
+
+1. [RStudio and Working Environment](https://rbasics.netlify.app/3-rstudiobasics.html#working-in-rstudio-server)
+2. [R syntax, basic objects and operations](http://r-statistics.co/R-Tutorial.html)
+
+Further, we will cover some essential aspects just as the bare minimum requirements for understanding these notes to some extent.
+
 ## Installing Packages
 
 
